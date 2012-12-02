@@ -1,0 +1,9 @@
+[ 2012-11-27T17:45:18+08:00 ] ERR: (ThinkException) 无法加载模块:Online
+[ 2012-11-27T17:45:23+08:00 ] ERR: (ThinkException) 非法操作:index
+[ 2012-11-27T18:35:38+08:00 ] ERR: (ThinkException) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+ [ SQL语句 ] : SELECT * FROM `activity`,`comment` WHERE activity.number = comment.act_num and activity.number = ? 
+[ 2012-11-27T18:37:54+08:00 ] ERR: [4] syntax error, unexpected ')' D:\DocumentRoot\Project\Lib\Action\SearchAction.class.php 第 97 行.
+[ 2012-11-27T18:38:06+08:00 ] ERR: [4] syntax error, unexpected ')' D:\DocumentRoot\Project\Lib\Action\SearchAction.class.php 第 97 行.
+[ 2012-11-27T18:38:21+08:00 ] ERR: [4] syntax error, unexpected '*', expecting T_FUNCTION D:\DocumentRoot\Project\Lib\Action\SearchAction.class.php 第 130 行.
+[ 2012-11-27T18:38:35+08:00 ] ERR: [4] syntax error, unexpected ';', expecting T_FUNCTION D:\DocumentRoot\Project\Lib\Action\SearchAction.class.php 第 132 行.
+[ 2012-11-27T18:43:20+08:00 ] ERR: [4] syntax error, unexpected ')' D:\DocumentRoot\Project\Lib\Action\SearchAction.class.php 第 102 行.

@@ -1,0 +1,7 @@
+[ 2012-12-03T00:32:49+08:00 ] ERR: [4] syntax error, unexpected T_STRING D:\DocumentRoot\Project\Lib\Action\SearchAction.class.php 第 190 行.
+[ 2012-12-03T00:35:43+08:00 ] ERR: (ThinkException) Unknown column '$date' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `activity` WHERE $date between time_start and time_end 
+[ 2012-12-03T00:47:41+08:00 ] ERR: (ThinkException) Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `activity` WHERE ( `time_start` <= Array ) 
+[ 2012-12-03T00:48:04+08:00 ] ERR: (ThinkException) Unknown column 'Array' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `activity` WHERE ( `time_start` <= Array ) 

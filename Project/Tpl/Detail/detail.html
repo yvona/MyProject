@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>活动详情</title>
+</head>
+<body>
+<volist name="list" id="vo">
+活动名称：{$vo['act_name']}<br/>  
+活动开始时间：{$vo['time_start']}<br/>  
+活动结束时间：{$vo['time_end']}<br/>
+活动归属：{$vo['belong_to']}<br/>
+活动地点：{$vo['place']}<br/>
+活动照片：{$vo['photo']}<br/>
+--------------------------<br/>
+活动评论：{$vo['content']}<br/>
+评论归属：{$vo['user_num']}<br/>
+评论时间：{$vo['time']}<br/>
+
+<br/>
+</volist>
+</body>
+</html>

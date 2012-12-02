@@ -1,0 +1,13 @@
+[ 2012-11-24T00:27:21+08:00 ] ERR: (ThinkException) 非法操作:index
+[ 2012-11-24T00:40:57+08:00 ] ERR: (ThinkException) 非法操作:dataTes
+[ 2012-11-24T00:52:56+08:00 ] ERR: (ThinkException) 非法操作:dataTes
+[ 2012-11-24T00:57:22+08:00 ] ERR: [4] syntax error, unexpected T_STRING D:\DocumentRoot\Project\Lib\Action\TestAction.class.php 第 7 行.
+[ 2012-11-24T00:59:30+08:00 ] ERR: [1] Call to undefined function MyDatabase() D:\DocumentRoot\Project\Lib\Action\TestAction.class.php 第 8 行.
+[ 2012-11-24T01:13:13+08:00 ] ERR: (ThinkException) 非法操作:index
+[ 2012-11-24T21:22:34+08:00 ] ERR: (ThinkException) 模板不存在[D:/DocumentRoot/Project/Tpl/Online/onlinesearch.html]
+[ 2012-11-24T21:23:28+08:00 ] ERR: (ThinkException) 模板不存在[D:/DocumentRoot/Project/Tpl/Online/onlinesearch.html]
+[ 2012-11-24T21:23:30+08:00 ] ERR: (ThinkException) 模板不存在[D:/DocumentRoot/Project/Tpl/Online/onlinesearch.html]
+[ 2012-11-24T21:28:26+08:00 ] ERR: [1] Class 'activity' not found D:\DocumentRoot\ThinkPHP\Common\common.php 第 277 行.
+[ 2012-11-24T21:38:18+08:00 ] ERR: [1] Call to undefined function ysql_fetch_array() D:\DocumentRoot\Project\Lib\Action\OnlineAction.class.php 第 11 行.
+[ 2012-11-24T21:38:28+08:00 ] ERR: [1] Call to undefined function sql_fetch_array() D:\DocumentRoot\Project\Lib\Action\OnlineAction.class.php 第 11 行.
+[ 2012-11-24T21:38:30+08:00 ] ERR: [1] Call to undefined function sql_fetch_array() D:\DocumentRoot\Project\Lib\Action\OnlineAction.class.php 第 11 行.
